@@ -33,15 +33,13 @@ El análisis responde a tres preguntas clave:
 ## 💡 Insights principales
 
 ### 1. Rentabilidad en alza, pero financiada con liquidez
-El banco cerró diciembre 2025 con ROE de **5,07%** (+3,52pp), ROA de **0,59%** (+0,42pp) y NIM de **0,86%** (+0,08pp). Sin embargo, el Índice de Liquidez cayó **-12,59pp** en el mismo período, sugiriendo que la mejora en rentabilidad se está financiando con una reducción agresiva del colchón de disponibilidad. De mantenerse esta tendencia, la institución podría aproximarse a la zona de alerta regulatoria en los primeros meses del año siguiente.
+El banco cerró diciembre 2025 con ROE de 5,07% (+3,52pp), ROA de 0,59% (+0,42pp) y NIM de 0,86% (+0,08pp). Sin embargo, el Índice de Liquidez cayó -12,59pp en el mismo período, sugiriendo que la mejora en rentabilidad se está financiando con una reducción agresiva del colchón de disponibilidad. De mantenerse esta tendencia, la institución podría aproximarse a la zona de alerta regulatoria en los primeros meses del año siguiente.
 
 ### 2. Mora creciente con cobertura insuficiente
-La Tasa de Mora cerró en **11,48%** (+0,32pp) mientras el Ratio de Cobertura cayó a **83,52%** (-9,83pp). Esto indica que la cartera vencida crece más rápido que las provisiones destinadas a cubrirla, generando una brecha de riesgo no provisionado que presiona la estabilidad del balance. La cartera vigente se contrajo de 406 a 363 millones entre junio y diciembre, evidenciando un deterioro sostenido en la calidad crediticia.
+La Tasa de Mora cerró en 11,48% (+0,32pp) mientras el Ratio de Cobertura cayó a 83,52% (-9,83pp). Esto indica que la cartera vencida crece más rápido que las provisiones destinadas a cubrirla, generando una brecha de riesgo no provisionado que presiona la estabilidad del balance. La cartera vigente se contrajo de 406 a 363 millones entre junio y diciembre, evidenciando un deterioro sostenido en la calidad crediticia.
 
 ### 3. Castigos concentrados en el último trimestre: señal de alerta estructural
 El gráfico de castigos revela que los meses de septiembre a diciembre concentraron los valores más altos del año, todos por encima del promedio histórico. Este patrón sugiere que pérdidas acumuladas durante el año fueron reconocidas en bloque al cierre, distorsionando la imagen financiera de los períodos intermedios y evidenciando la necesidad de una política de revisión y castigo mensual más disciplinada.
-
----
 
 ## 🗂️ Modelo de Datos
 
