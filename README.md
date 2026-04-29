@@ -2,13 +2,13 @@
 
 Este ecosistema de BI automatiza el monitoreo financiero de la institución, permitiendo al director responder en segundos la pregunta que mueve cada decisión estratégica: ¿cómo está el banco hoy versus el mes anterior?
 
-Su implementación elimina la dependencia de reportes manuales y consolidaciones tardías, poniendo en manos del director una vista ejecutiva del estado real del banco al cierre de cada período  rentabilidad, liquidez, solvencia y calidad de cartera en un solo lugar, con comparación automática contra el mes anterior y alertas visuales de desviación.
+Su implementación elimina la dependencia de reportes manuales y consolidaciones tardías, poniendo en manos del director una vista ejecutiva del estado real del banco al cierre de cada período:  rentabilidad, liquidez, solvencia y calidad de cartera en un solo lugar, con comparación automática contra el mes anterior y alertas visuales de desviación.
 
 ---
 
 ## 📌 Descripción del proyecto
 
-El dashboard integra cinco fuentes de datos transaccionales de una institución financiera simulada que opera en Ecuador. La vista principal **Resumen Ejecutivo** consolida ocho KPIs estratégicos con comparación mes a mes, visualizaciones de tendencia y un sistema de alertas por color, permitiendo al analista identificar de un vistazo el estado de salud financiera del banco al cierre de cada período.
+El dashboard integra cinco fuentes de datos transaccionales de una institución financiera simulada que opera en Ecuador. La vista principal **Resumen Ejecutivo** consolida ocho KPIs estratégicos, con comparación mes a mes, visualizaciones de tendencia y un sistema de alertas por color, lo que permite al analista identificar de un vistazo el estado de salud financiera del banco al cierre de cada período.
 
 El análisis responde a tres preguntas clave:
 
@@ -20,7 +20,7 @@ El análisis responde a tres preguntas clave:
 
 ## 🔗 Dashboard interactivo
 
-[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjdiMmZjOGItYjE4MS00M2E2LWEwN2ItYzI4YTA3NDRlNThjIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=5a13ee042a084f76b50a)
+[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGZjNmU5ODctMzYyMi00OWU1LTgyM2UtZGMzMGQxZGZjZjY0IiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=aa24aa9e1217fa011678)
 
 ---
 
